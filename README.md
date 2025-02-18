@@ -1,6 +1,8 @@
 # vue-sneakers
 
 This template should help get you started developing with Vue 3 in Vite.
+Šis projekts nestradas pilnīgi uz Tehnikuma wi-fi, jo nesanac pieslēgties pie API.
+Pagaidam uztaisits tikai front-end un planojas uztaisit savu back endu, ar Laravel Api.
 
 ## Recommended IDE Setup
 
